@@ -1,0 +1,134 @@
+{
+  "ChatGPT Plus": {
+    "amount": 20.0,
+    "currency": "USD"
+  },
+  "Claude Pro": {
+    "amount": 20.0,
+    "currency": "USD"
+  },
+  "Gemini Advanced": {
+    "amount": 19.99,
+    "currency": "USD"
+  },
+  "Perplexity Pro": {
+    "amount": 20.0,
+    "currency": "USD"
+  },
+  "GitHub Copilot": {
+    "amount": 10.0,
+    "currency": "USD"
+  },
+  "Midjourney": {
+    "amount": 10.0,
+    "currency": "USD"
+  },
+  "Cursor": {
+    "amount": 20.0,
+    "currency": "USD"
+  },
+  "Netflix": {
+    "amount": 289.99,
+    "currency": "TRY"
+  },
+  "YouTube Premium": {
+    "amount": 99.99,
+    "currency": "TRY"
+  },
+  "Disney+": {
+    "amount": 249.99,
+    "currency": "TRY"
+  },
+  "Amazon Prime": {
+    "amount": 49.9,
+    "currency": "TRY"
+  },
+  "Exxen": {
+    "amount": 219.0,
+    "currency": "TRY"
+  },
+  "BluTV": {
+    "amount": 229.99,
+    "currency": "TRY"
+  },
+  "Tabii": {
+    "amount": 99.0,
+    "currency": "TRY"
+  },
+  "GAİN": {
+    "amount": 149.99,
+    "currency": "TRY"
+  },
+  "MUBI": {
+    "amount": 166.0,
+    "currency": "TRY"
+  },
+  "beIN Connect": {
+    "amount": 199.0,
+    "currency": "TRY"
+  },
+  "PlayStation Plus": {
+    "amount": 269.0,
+    "currency": "TRY"
+  },
+  "Spotify": {
+    "amount": 99.99,
+    "currency": "TRY"
+  },
+  "Apple Music": {
+    "amount": 64.99,
+    "currency": "TRY"
+  },
+  "YouTube Music": {
+    "amount": 79.99,
+    "currency": "TRY"
+  },
+  "Apple iCloud+": {
+    "amount": 39.99,
+    "currency": "TRY"
+  },
+  "Google One": {
+    "amount": 49.99,
+    "currency": "TRY"
+  },
+  "Microsoft 365": {
+    "amount": 199.0,
+    "currency": "TRY"
+  },
+  "Storytel": {
+    "amount": 129.99,
+    "currency": "TRY"
+  },
+  "Spor Salonu": {
+    "amount": 1200.0,
+    "currency": "TRY"
+  },
+  "Kira": {
+    "amount": 0.0,
+    "currency": "TRY"
+  },
+  "Aidat": {
+    "amount": 0.0,
+    "currency": "TRY"
+  },
+  "Elektrik": {
+    "amount": 0.0,
+    "currency": "TRY"
+  },
+  "Su": {
+    "amount": 0.0,
+    "currency": "TRY"
+  },
+  "Doğalgaz": {
+    "amount": 0.0,
+    "currency": "TRY"
+  },
+  "İnternet": {
+    "amount": 0.0,
+    "currency": "TRY"
+  },
+  "Telefon": {
+    "amount": 0.0,
+    "currency": "TRY"
+  }
+}
